@@ -1,0 +1,117 @@
+p {
+    font-family: Arial;
+    font-size:10pt;
+    display:inline;
+}
+a {
+    font-family: Arial;
+    font-size:9pt;
+}
+a:link {
+    text-decoration:none;
+    color:#525252;
+}
+a:visited {
+    text-decoration:none;
+    color:#525252;
+}
+a:hover {
+    text-decoration: underline;
+    color:#525252;
+}
+/*top right links*/
+ .stop {
+
+    text-align: right;
+    margin-top: 10px;
+    padding-left:5px;
+    padding-right:5px;
+
+    
+}
+#login {
+    font-size:11px;
+    color:white;
+    font-weight:bold;
+    background:#4285f4;
+    text-align:center;    
+    height:25px;
+    width:55px;   
+    border:1px solid #4285f4;
+    margin-top: 4px;
+    padding-right:5px;
+    padding-left:5px;
+    padding-top:3px;
+    padding-bottom:3px;  
+}
+/*middle section*/
+.middle{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:250px;
+    
+}
+
+    /*logo*/
+ #logo {  
+    margin-top:200px;
+    height:90px;
+    width: 250px;
+}
+
+#search{
+  width: 500px;
+  margin-bottom: 27px; 
+  border: 1px black #525252;
+  padding: 5px 7px;
+}
+
+
+    /*search and lucky buttons*/
+.centerbuttons{
+    display:inline;
+    padding:7px 7px 7px 7px;
+    margin-top:100px;
+    padding-right:5px;
+    border:1px solid #B4B4B1;
+    font-size:10px;
+    border-radius:2px;
+    background-color:#F2F2F2;
+    font-weight:bold;
+   
+    
+}
+
+
+/*footer*/
+footer{
+    
+    background-color:#F2F2F2;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:80 px;
+    width: 100%;
+    padding-top:15px;
+    padding-bottom:15px;
+
+   
+    
+    
+}
+ .bottom-l {
+    text-align: left;
+    padding-left:10px;
+
+    
+  
+    
+}
+.bottom-r {
+    padding-right: 10px;
+    float:right;
+
+    
+    
+}
